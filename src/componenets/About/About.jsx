@@ -46,6 +46,7 @@ const About = () => {
 
           {/* Resume Button */}
           <a
+            href="https://docs.google.com/document/d/1ZbprNfJ2aOqH5BoPF61so2TgqW4m0Bhl/edit?usp=drive_link&ouid=104204864056350300161&rtpof=true&sd=true"
             href="https://docs.google.com/document/d/1ZbprNfJ2aOqH5BoPF61so2TgqW4m0Bhl/edit"
             target="_blank"
             rel="noopener noreferrer"
